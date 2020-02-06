@@ -57,8 +57,3 @@ PRINTING LISTS
       
       
 
-
-	                                                                                                                        
-Arda Duman 
-                                                                                                                                          Cansu Doğanay
-
