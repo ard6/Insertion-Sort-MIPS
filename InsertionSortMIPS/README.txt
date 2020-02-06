@@ -1,17 +1,9 @@
 
 
-
-
-
-KoÁ University
+Ko√ß University
 College of Engineering
 COMP 303 Computer Architecture
 Fall 2019
-
-
-
-
-
 
 
 
@@ -21,15 +13,9 @@ Assignment #2
 
 
 
-
-
-
-
-
-
 Prepared by:
 Arda Duman 60609
-Cansu Doanay 60601
+Cansu Do√∞anay 60601
 
 INTRODUCTION
 
@@ -51,19 +37,11 @@ DUPLICATE REMOVING
 
 PRINTING LISTS
 
-	After sorting and removing processes are ended, the system prints out both the initial sorted list and the sorted listís duplicates are removed version. In both printing parts, since they are arrays, we are printing the sorted lists in between the symbols ì[ì and ì]î. 
-
-
-
-
-
+	After sorting and removing processes are ended, the system prints out both the initial sorted list and the sorted list‚Äôs duplicates are removed version. In both printing parts, since they are arrays, we are printing the sorted lists in between the symbols ‚Äú[‚Äú and ‚Äú]‚Äù. 
 
 	 After printing these sorted lists, the system is printing the sum of elements in without duplicates list. 
       When all the processes are completed, the system prints out a message that reported that program is finished running. 
       
       
 
-
-	                                                                                                                        Arda Duman 
-                                                                                                                                Cansu Doanay
 
